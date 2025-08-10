@@ -1,0 +1,31 @@
+2025-05-24 22:59:53.244 [info] 
+
+
+
+
+2025-05-24 22:59:53.314 [info] Extension host agent started.
+2025-05-24 22:59:54.391 [info] [127.0.0.1][3d909292][ManagementConnection] New connection established.
+2025-05-24 22:59:54.449 [info] [127.0.0.1][92e1a02f][ExtensionHostConnection] New connection established.
+2025-05-24 22:59:54.681 [info] ComputeTargetPlatform: linux-x64
+2025-05-24 22:59:57.009 [info] [127.0.0.1][92e1a02f][ExtensionHostConnection] <186143> Launched Extension Host Process.
+2025-05-24 23:00:05.345 [info] ComputeTargetPlatform: linux-x64
+2025-05-25 15:48:07.996 [info] [127.0.0.1][92e1a02f][ExtensionHostConnection] The client has reconnected.
+2025-05-25 15:48:08.388 [info] [127.0.0.1][3d909292][ManagementConnection] The client has reconnected.
+2025-05-26 20:22:58.315 [info] [127.0.0.1][3d909292][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-05-26 20:23:02.889 [info] [127.0.0.1][3d909292][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-05-26 20:23:02.895 [info] [127.0.0.1][92e1a02f][ExtensionHostConnection] The client has reconnected.
+2025-05-26 20:23:02.898 [info] [127.0.0.1][3d909292][ManagementConnection] The client has reconnected.
+2025-05-27 11:31:53.484 [info] [127.0.0.1][3d909292][ManagementConnection] The client has reconnected.
+2025-05-27 11:31:53.602 [info] [127.0.0.1][92e1a02f][ExtensionHostConnection] The client has reconnected.
+2025-05-27 19:51:09.426 [info] [127.0.0.1][3d909292][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-05-27 19:51:50.095 [info] [127.0.0.1][3d909292][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-05-27 19:51:50.100 [info] [127.0.0.1][3d909292][ManagementConnection] The client has reconnected.
+2025-05-30 00:25:55.180 [info] [127.0.0.1][3d909292][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-05-30 19:34:24.522 [info] [127.0.0.1][3d909292][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-05-30 19:34:24.526 [info] [127.0.0.1][3d909292][ManagementConnection] The client has reconnected.
+2025-05-30 19:34:24.910 [info] Getting Manifest... github.copilot
+2025-05-30 19:34:25.103 [info] [127.0.0.1][92e1a02f][ExtensionHostConnection] The client has reconnected.
+2025-05-30 19:34:25.349 [info] Installing extension: github.copilot {"productVersion":{"version":"1.100.2","date":"2025-05-14T21:50:06.606Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"profileLocation":{"$mid":1,"fsPath":"/home/rrabbani11/.vscode-server/extensions/extensions.json","external":"file:///home/rrabbani11/.vscode-server/extensions/extensions.json","path":"/home/rrabbani11/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-05-30 19:34:26.509 [info] Getting Manifest... github.copilot-chat
+2025-05-30 19:34:26.564 [info] [127.0.0.1][3d909292][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-30 19:34:28.777 [info] [127.0.0.1][92e1a02f][ExtensionHostConnection] <186143> Extension Host Process exited with code: 0, signal: null.

@@ -1,0 +1,15 @@
+2025-05-18 08:59:45.247 [info] Extension host with pid 993 started
+2025-05-18 08:59:45.403 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-18 08:59:45.528 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-18 08:59:45.529 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-18 08:59:45.530 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-18 08:59:45.922 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-05-18 08:59:46.196 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-18 08:59:46.480 [info] Eager extensions activated
+2025-05-18 08:59:46.480 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-18 08:59:46.482 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-18 10:11:02.256 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-05-18 10:11:02.462 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-05-18 10:11:02.463 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-05-20 18:07:50.473 [info] Extension host terminating: renderer disconnected for too long (2)
+2025-05-20 18:07:52.573 [info] Extension host with pid 993 exiting with code 0

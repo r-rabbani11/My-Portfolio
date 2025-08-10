@@ -1,0 +1,311 @@
+2025-06-23 08:40:50.127 [info] Can't use the Electron fetcher in this environment.
+2025-06-23 08:40:50.127 [info] Using the Node fetch fetcher.
+2025-06-23 08:40:50.127 [info] Initializing Git extension service.
+2025-06-23 08:40:50.127 [info] Successfully activated the vscode.git extension.
+2025-06-23 08:40:50.127 [info] Enablement state of the vscode.git extension: true.
+2025-06-23 08:40:50.127 [info] Successfully registered Git commit message provider.
+2025-06-23 08:40:50.743 [info] Logged in as r-rabbani11
+2025-06-23 08:40:52.105 [info] Got Copilot token for r-rabbani11
+2025-06-23 08:40:52.601 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 08:40:52.601 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-06-23 08:40:52.624 [info] Registering default platform agent...
+2025-06-23 08:40:53.071 [info] Fetched model metadata in 956ms ae975787-041f-4185-8998-d6c10fb5320e
+2025-06-23 08:40:53.075 [info] activationBlocker from 'languageModelAccess' took for 2708ms
+2025-06-23 08:40:53.146 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 08:43:09.576 [info] message 0 returned. finish reason: [stop]
+2025-06-23 08:43:09.576 [info] request done: requestId: [18fbe717-f83e-473b-91e3-289b3691b186] model deployment ID: []
+2025-06-23 08:43:19.812 [info] message 0 returned. finish reason: [stop]
+2025-06-23 08:43:19.812 [info] request done: requestId: [e5c1f18a-7a45-4790-869c-62e1f57791be] model deployment ID: []
+2025-06-23 08:43:21.677 [info] message 0 returned. finish reason: [stop]
+2025-06-23 08:43:21.677 [info] request done: requestId: [873e75f7-03e8-4c39-b533-0f2d164a01f5] model deployment ID: []
+2025-06-23 08:46:47.173 [info] message 0 returned. finish reason: [stop]
+2025-06-23 08:46:47.173 [info] request done: requestId: [17c45d94-12f2-4482-8556-29504488a517] model deployment ID: []
+2025-06-23 08:46:57.402 [info] message 0 returned. finish reason: [stop]
+2025-06-23 08:46:57.402 [info] request done: requestId: [e84bd15e-2a9f-4b6c-a45e-692ac6b2589b] model deployment ID: []
+2025-06-23 09:06:10.956 [info] Logged in as r-rabbani11
+2025-06-23 09:06:12.100 [info] Got Copilot token for r-rabbani11
+2025-06-23 09:06:12.028 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 09:06:12.154 [info] Fetched model metadata in 1545ms 47e59299-26be-434d-9a95-0bf1e5c4ef56
+2025-06-23 09:06:12.158 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 09:06:24.918 [info] message 0 returned. finish reason: [stop]
+2025-06-23 09:06:24.918 [info] request done: requestId: [88d1fba8-2168-49d5-ab56-b721841dbc0f] model deployment ID: []
+2025-06-23 09:06:33.372 [info] message 0 returned. finish reason: [stop]
+2025-06-23 09:06:33.372 [info] request done: requestId: [b8425192-3846-42f9-bf66-0cc6d136c4b2] model deployment ID: []
+2025-06-23 09:10:08.076 [info] message 0 returned. finish reason: [stop]
+2025-06-23 09:10:08.076 [info] request done: requestId: [180aa89a-7ee8-48ad-8d69-0f0452ac33df] model deployment ID: []
+2025-06-23 09:10:12.167 [info] message 0 returned. finish reason: [stop]
+2025-06-23 09:10:12.167 [info] request done: requestId: [93e9a82e-f3d3-4379-95dd-52fec9a563de] model deployment ID: []
+2025-06-23 09:12:46.429 [info] message 0 returned. finish reason: [stop]
+2025-06-23 09:12:46.430 [info] request done: requestId: [c4730c85-47c3-4110-a3b6-7f1a0683a4c7] model deployment ID: []
+2025-06-23 09:12:55.435 [info] message 0 returned. finish reason: [stop]
+2025-06-23 09:12:55.435 [info] request done: requestId: [ca7b1740-618a-4094-84cd-b00194aeaf10] model deployment ID: []
+2025-06-23 09:14:13.928 [info] message 0 returned. finish reason: [stop]
+2025-06-23 09:14:13.929 [info] request done: requestId: [29c4888e-2f2d-458c-8a3f-5b6a21a25d3e] model deployment ID: []
+2025-06-23 09:14:25.044 [info] message 0 returned. finish reason: [stop]
+2025-06-23 09:14:25.044 [info] request done: requestId: [f59be662-9ee0-435c-b55f-e09dd6ed0a5b] model deployment ID: []
+2025-06-23 09:14:54.958 [info] message 0 returned. finish reason: [stop]
+2025-06-23 09:14:54.958 [info] request done: requestId: [1c6e30de-82f7-45a1-9e44-e0067185a7b9] model deployment ID: []
+2025-06-23 09:15:04.852 [info] message 0 returned. finish reason: [stop]
+2025-06-23 09:15:04.852 [info] request done: requestId: [41cacc88-9560-47cf-882c-41c6234f2480] model deployment ID: []
+2025-06-23 09:20:25.567 [info] Fetched model metadata in 713ms 56cacc01-1ee4-48b5-b228-1ab6f2653d71
+2025-06-23 09:20:37.570 [info] message 0 returned. finish reason: [stop]
+2025-06-23 09:20:37.570 [info] request done: requestId: [6bf9abc0-f197-418e-82b1-9438adef1051] model deployment ID: []
+2025-06-23 09:20:48.477 [info] message 0 returned. finish reason: [stop]
+2025-06-23 09:20:48.477 [info] request done: requestId: [b5f43d1e-22af-43c1-843b-82327c88e176] model deployment ID: []
+2025-06-23 09:22:58.719 [info] message 0 returned. finish reason: [stop]
+2025-06-23 09:22:58.720 [info] request done: requestId: [9e212519-51a4-4dbe-84fe-c48bdc8ef25f] model deployment ID: []
+2025-06-23 09:23:03.521 [info] message 0 returned. finish reason: [stop]
+2025-06-23 09:23:03.521 [info] request done: requestId: [ca862bb4-6046-47f8-9d90-a761010c3e2c] model deployment ID: []
+2025-06-23 09:25:30.574 [info] message 0 returned. finish reason: [stop]
+2025-06-23 09:25:30.576 [info] request done: requestId: [08273350-eb6f-4dc6-b74a-d618fccaa963] model deployment ID: []
+2025-06-23 09:25:39.197 [info] message 0 returned. finish reason: [stop]
+2025-06-23 09:25:39.197 [info] request done: requestId: [b49b0846-e9fe-41f4-ba47-eba2cd283587] model deployment ID: []
+2025-06-23 09:33:29.513 [info] Logged in as r-rabbani11
+2025-06-23 09:33:30.319 [info] Got Copilot token for r-rabbani11
+2025-06-23 09:33:30.724 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 09:33:30.863 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 09:45:39.939 [info] Fetched model metadata in 707ms 5e20e508-e9cd-47a8-866c-6c74d942a368
+2025-06-23 09:45:53.524 [info] message 0 returned. finish reason: [stop]
+2025-06-23 09:45:53.524 [info] request done: requestId: [c0908741-c883-42c5-9b05-eff3786b455e] model deployment ID: []
+2025-06-23 09:46:01.465 [info] message 0 returned. finish reason: [stop]
+2025-06-23 09:46:01.465 [info] request done: requestId: [ff7ff8aa-d50f-404e-881b-7485d545677c] model deployment ID: []
+2025-06-23 10:01:48.368 [info] Logged in as r-rabbani11
+2025-06-23 10:01:50.735 [info] Got Copilot token for r-rabbani11
+2025-06-23 10:01:51.121 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 10:01:51.291 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 10:07:48.418 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:07:48.418 [info] request done: requestId: [e1aaca6b-95a7-49fb-b7a9-e50f10baa0a5] model deployment ID: []
+2025-06-23 10:08:05.864 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:08:05.864 [info] request done: requestId: [7aaf625f-5779-4ddc-af21-cbaada934f5d] model deployment ID: []
+2025-06-23 10:09:33.452 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:09:33.453 [info] request done: requestId: [d2ceac73-ed57-415f-bcca-79c584718545] model deployment ID: []
+2025-06-23 10:09:35.583 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:09:35.583 [info] request done: requestId: [58f5e925-f547-4784-9851-c73733fea995] model deployment ID: []
+2025-06-23 10:09:41.394 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:09:41.394 [info] request done: requestId: [a98c3600-2360-4205-a4eb-69e03eea8caa] model deployment ID: []
+2025-06-23 10:09:43.297 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:09:43.297 [info] request done: requestId: [a9f6c115-3464-4a88-b942-dab38d163222] model deployment ID: []
+2025-06-23 10:09:44.431 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:09:44.432 [info] request done: requestId: [c286722a-0490-420a-affa-1b8ea389b47c] model deployment ID: []
+2025-06-23 10:10:34.511 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:10:34.511 [info] request done: requestId: [15d469c3-89e4-46aa-82d2-27c954a69d43] model deployment ID: []
+2025-06-23 10:10:38.353 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:10:38.353 [info] request done: requestId: [8acec181-7509-4389-8eb3-450c810bfcbe] model deployment ID: []
+2025-06-23 10:11:07.240 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:11:07.240 [info] request done: requestId: [e0a64e79-3f19-4509-992a-0e5aae3398f3] model deployment ID: []
+2025-06-23 10:11:51.346 [info] request done: requestId: [e499a2a9-1048-4cc9-8620-1ebf57cc5e85] model deployment ID: []
+2025-06-23 10:11:52.565 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:11:52.566 [info] request done: requestId: [8d0cab8f-2208-4b99-8ace-122f013c5e6a] model deployment ID: []
+2025-06-23 10:11:59.153 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:11:59.153 [info] request done: requestId: [cec2536d-cd27-4107-98e4-a5c424f3f690] model deployment ID: []
+2025-06-23 10:12:01.631 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:12:01.631 [info] request done: requestId: [8c98b5ac-153e-4974-a384-2c25ffb2f865] model deployment ID: []
+2025-06-23 10:16:32.740 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:16:32.741 [info] request done: requestId: [4f7b972c-9177-4b30-806b-a95aae8732e9] model deployment ID: []
+2025-06-23 10:16:34.690 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:16:34.690 [info] request done: requestId: [21a3b6be-6c46-4c4e-a659-8e9e5cefd2b5] model deployment ID: []
+2025-06-23 10:16:39.291 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:16:39.291 [info] request done: requestId: [10d3eff4-3b5f-4e7f-a2a8-cedaad9f888e] model deployment ID: []
+2025-06-23 10:16:55.269 [info] request done: requestId: [665144d9-7ec0-42d4-99bf-70eace8dc188] model deployment ID: []
+2025-06-23 10:16:58.550 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:16:58.550 [info] request done: requestId: [5700ac65-a860-488e-ae28-67396d8c0454] model deployment ID: []
+2025-06-23 10:17:03.933 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:17:03.933 [info] request done: requestId: [e18501fe-25fd-4f79-9570-82e31163b589] model deployment ID: []
+2025-06-23 10:17:14.641 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:17:14.641 [info] request done: requestId: [2c60743f-cb8d-4859-bebf-3539270fbc98] model deployment ID: []
+2025-06-23 10:17:58.419 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:17:58.420 [info] request done: requestId: [5c3391a3-6c92-4b55-adda-3e26987cc936] model deployment ID: []
+2025-06-23 10:18:04.945 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:18:04.945 [info] request done: requestId: [639fdc79-bf30-4341-aceb-f64e6fcd1aac] model deployment ID: []
+2025-06-23 10:19:01.500 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:19:01.500 [info] request done: requestId: [11abf236-db7c-43bb-8398-a090cf8a4748] model deployment ID: []
+2025-06-23 10:19:08.970 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:19:08.970 [info] request done: requestId: [d56cf281-173b-4993-987a-1d1317a212ea] model deployment ID: []
+2025-06-23 10:20:31.510 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:20:31.510 [info] request done: requestId: [45223b15-22b4-440f-9922-b13c755d9d12] model deployment ID: []
+2025-06-23 10:20:35.941 [info] request done: requestId: [6269ba79-93ab-4a54-baa9-67bcab956958] model deployment ID: []
+2025-06-23 10:20:37.995 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:20:37.995 [info] request done: requestId: [2d8dafac-64f9-4114-baad-9dfb770aff7a] model deployment ID: []
+2025-06-23 10:20:44.635 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:20:44.635 [info] request done: requestId: [308e3636-2150-4514-9c1d-2b50e9b51aea] model deployment ID: []
+2025-06-23 10:20:53.524 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:20:53.524 [info] request done: requestId: [8aa5ef47-fe10-4499-a494-5702e08fbb7f] model deployment ID: []
+2025-06-23 10:20:55.348 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:20:55.348 [info] request done: requestId: [c7148909-6daa-4cff-a8fa-c7b193c94d80] model deployment ID: []
+2025-06-23 10:20:58.179 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:20:58.179 [info] request done: requestId: [ed5162d6-2c52-4356-bb71-490e9a54ff60] model deployment ID: []
+2025-06-23 10:21:03.106 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:21:03.106 [info] request done: requestId: [405243f7-b7c1-4815-9cd1-86b2ebbb00bb] model deployment ID: []
+2025-06-23 10:21:05.919 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:21:05.919 [info] request done: requestId: [49500c9e-ba85-4812-9133-ed2f0507d3ce] model deployment ID: []
+2025-06-23 10:29:08.106 [info] Logged in as r-rabbani11
+2025-06-23 10:29:09.311 [info] Got Copilot token for r-rabbani11
+2025-06-23 10:29:09.676 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 10:29:09.833 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 10:31:21.918 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:31:21.918 [info] request done: requestId: [9e83cc6e-1115-446e-bd0e-d92796792be6] model deployment ID: []
+2025-06-23 10:31:24.162 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:31:24.162 [info] request done: requestId: [bb4e9f1c-b10d-4959-adb2-f35b28d2b44c] model deployment ID: []
+2025-06-23 10:31:27.127 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:31:27.127 [info] request done: requestId: [b2339ac5-0dd8-47ae-bbfa-40e85d149e44] model deployment ID: []
+2025-06-23 10:31:33.492 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:31:33.492 [info] request done: requestId: [5fc1fd22-eeae-43d5-9c3c-ee1039de1ddf] model deployment ID: []
+2025-06-23 10:42:49.318 [info] Fetched model metadata in 1434ms 5e648a45-8e86-45d1-83c8-5630ff2f1719
+2025-06-23 10:43:30.120 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:43:30.120 [info] request done: requestId: [958ac24b-dd1c-453e-ae63-aaa7ed9fcd16] model deployment ID: []
+2025-06-23 10:43:33.882 [error] TypeError: fetch failed
+    at node:internal/deps/undici/undici:13502:13
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at qP._fetch (/home/rrabbani11/.vscode-server/extensions/github.copilot-chat-0.27.3/dist/extension.js:792:53087)
+    at dqt (/home/rrabbani11/.vscode-server/extensions/github.copilot-chat-0.27.3/dist/extension.js:2334:5590)
+    at iU.fetchMany (/home/rrabbani11/.vscode-server/extensions/github.copilot-chat-0.27.3/dist/extension.js:2335:1941)
+    at iU.fetchOne (/home/rrabbani11/.vscode-server/extensions/github.copilot-chat-0.27.3/dist/extension.js:2335:961)
+  SocketError: HTTP/2: "GOAWAY" frame received with code 0
+      at ClientHttp2Session.onHttp2SessionGoAway (/home/rrabbani11/.vscode-server/bin/848b80aeb52026648a8ff9f7c45a9b0a80641e2e/node_modules/undici/lib/dispatcher/client-h2.js:188:31)
+      at ClientHttp2Session.emit (node:events:524:28)
+      at Http2Session.onGoawayData (node:internal/http2/core:698:11)
+      at Http2Session.callbackTrampoline (node:internal/async_hooks:130:17): Error on conversation request
+2025-06-23 10:56:50.597 [info] Logged in as r-rabbani11
+2025-06-23 10:56:51.945 [info] Got Copilot token for r-rabbani11
+2025-06-23 10:56:52.263 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 10:56:52.434 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 10:57:37.739 [info] message 0 returned. finish reason: [stop]
+2025-06-23 10:57:37.739 [info] request done: requestId: [a92360ff-29dd-49c7-8026-c4972b01be91] model deployment ID: []
+2025-06-23 11:26:36.697 [info] Logged in as r-rabbani11
+2025-06-23 11:26:37.871 [info] Got Copilot token for r-rabbani11
+2025-06-23 11:26:38.175 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 11:26:38.283 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 11:56:38.853 [info] Logged in as r-rabbani11
+2025-06-23 11:56:40.043 [info] Got Copilot token for r-rabbani11
+2025-06-23 11:56:40.357 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 11:56:40.650 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 12:26:41.180 [info] Logged in as r-rabbani11
+2025-06-23 12:26:42.327 [info] Got Copilot token for r-rabbani11
+2025-06-23 12:26:42.655 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 12:26:42.768 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 12:39:51.811 [info] message 0 returned. finish reason: [stop]
+2025-06-23 12:39:51.811 [info] request done: requestId: [0423879c-5ecf-431b-8512-58030128be19] model deployment ID: []
+2025-06-23 12:39:53.929 [info] request done: requestId: [5135a4d6-5b1a-48c8-8eed-363f35d9e231] model deployment ID: []
+2025-06-23 12:40:14.793 [info] message 0 returned. finish reason: [stop]
+2025-06-23 12:40:14.794 [info] request done: requestId: [2433fdd8-d494-41e6-a4c9-3c50f6d5a743] model deployment ID: []
+2025-06-23 12:40:19.020 [info] message 0 returned. finish reason: [stop]
+2025-06-23 12:40:19.020 [info] request done: requestId: [9d9024c9-4850-4593-bd30-bb5cc4ae96a2] model deployment ID: []
+2025-06-23 12:40:21.078 [info] message 0 returned. finish reason: [stop]
+2025-06-23 12:40:21.078 [info] request done: requestId: [311b1ad9-0eb5-4b11-b9a4-6bcbef73451f] model deployment ID: []
+2025-06-23 12:41:27.200 [info] message 0 returned. finish reason: [stop]
+2025-06-23 12:41:27.200 [info] request done: requestId: [8bef94d0-4759-47d5-b2b0-14c3a24cf231] model deployment ID: []
+2025-06-23 12:41:34.464 [info] message 0 returned. finish reason: [stop]
+2025-06-23 12:41:34.464 [info] request done: requestId: [1ad3e69c-a86c-47d7-a976-2eb61ec7bbdd] model deployment ID: []
+2025-06-23 12:41:43.894 [info] Fetched model metadata in 823ms cba9d23d-8912-48d0-a654-87dd4f296863
+2025-06-23 12:41:47.006 [info] message 0 returned. finish reason: [stop]
+2025-06-23 12:41:47.006 [info] request done: requestId: [d8f31f67-b4fa-4c44-8ed3-d608b7caab11] model deployment ID: []
+2025-06-23 12:44:34.188 [info] request done: requestId: [8b84206f-8a73-4c26-bcff-4d16392c6afa] model deployment ID: []
+2025-06-23 12:44:36.514 [info] message 0 returned. finish reason: [stop]
+2025-06-23 12:44:36.514 [info] request done: requestId: [82a4403e-5c9c-4c9d-967d-f7593ac1f068] model deployment ID: []
+2025-06-23 12:44:40.667 [info] message 0 returned. finish reason: [stop]
+2025-06-23 12:44:40.667 [info] request done: requestId: [b5200468-592d-45bd-839f-50977398d535] model deployment ID: []
+2025-06-23 12:44:46.575 [info] message 0 returned. finish reason: [stop]
+2025-06-23 12:44:46.575 [info] request done: requestId: [d045a24c-ebad-416c-8aa7-7b2f52531321] model deployment ID: []
+2025-06-23 12:44:50.423 [info] message 0 returned. finish reason: [stop]
+2025-06-23 12:44:50.424 [info] request done: requestId: [bdc7fb1b-10ba-4f10-b811-5f1f2110798d] model deployment ID: []
+2025-06-23 12:44:52.088 [info] message 0 returned. finish reason: [stop]
+2025-06-23 12:44:52.088 [info] request done: requestId: [90cddbc3-5e00-4f46-ac45-7f316604706b] model deployment ID: []
+2025-06-23 13:25:28.201 [info] Logged in as r-rabbani11
+2025-06-23 13:25:30.468 [info] Got Copilot token for r-rabbani11
+2025-06-23 13:25:31.793 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 13:25:32.337 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 13:25:33.144 [info] message 0 returned. finish reason: [stop]
+2025-06-23 13:25:33.145 [info] request done: requestId: [8c35f2c8-d4cc-4688-9166-39f2e1d407a9] model deployment ID: []
+2025-06-23 13:25:33.666 [info] Fetched model metadata in 1242ms f8a51378-1305-412a-8249-dfacc934c572
+2025-06-23 13:25:43.499 [info] message 0 returned. finish reason: [stop]
+2025-06-23 13:25:43.499 [info] request done: requestId: [b6be457d-817a-4db3-99d6-701150294ed1] model deployment ID: []
+2025-06-23 13:25:46.685 [info] message 0 returned. finish reason: [stop]
+2025-06-23 13:25:46.685 [info] request done: requestId: [71bce097-90b8-4b68-bab0-54ca4845cfc7] model deployment ID: []
+2025-06-23 13:26:19.636 [info] message 0 returned. finish reason: [stop]
+2025-06-23 13:26:19.636 [info] request done: requestId: [a734fa90-95da-40ee-ba57-5e7b24ff1e23] model deployment ID: []
+2025-06-23 13:26:27.533 [info] message 0 returned. finish reason: [stop]
+2025-06-23 13:26:27.533 [info] request done: requestId: [d50b1bb9-2a5e-415b-8aab-a77cea2cc07e] model deployment ID: []
+2025-06-23 13:26:35.234 [info] message 0 returned. finish reason: [stop]
+2025-06-23 13:26:35.234 [info] request done: requestId: [fa17a439-16ef-4f2f-b69a-424b157bbca3] model deployment ID: []
+2025-06-23 13:30:50.349 [info] message 0 returned. finish reason: [stop]
+2025-06-23 13:30:50.349 [info] request done: requestId: [43295b63-0b4c-4b6f-90c2-05e64e68de68] model deployment ID: []
+2025-06-23 13:31:16.629 [info] message 0 returned. finish reason: [stop]
+2025-06-23 13:31:16.630 [info] request done: requestId: [2d485635-0d82-4a65-b1f4-757e0470c746] model deployment ID: []
+2025-06-23 13:33:47.877 [info] message 0 returned. finish reason: [stop]
+2025-06-23 13:33:47.877 [info] request done: requestId: [21ce44a6-8565-46ab-87c9-6e55bc37c527] model deployment ID: []
+2025-06-23 13:34:26.113 [info] request done: requestId: [f534b6e6-d3f0-4d27-80da-2869e6fdd930] model deployment ID: []
+2025-06-23 13:34:29.778 [info] message 0 returned. finish reason: [stop]
+2025-06-23 13:34:29.778 [info] request done: requestId: [a5749f65-6301-45ec-ba82-a49e4fa1bf48] model deployment ID: []
+2025-06-23 13:34:44.359 [info] message 0 returned. finish reason: [stop]
+2025-06-23 13:34:44.359 [info] request done: requestId: [d7cb58c6-b4ce-44ca-89ea-08d6d229d8f2] model deployment ID: []
+2025-06-23 13:35:02.209 [info] message 0 returned. finish reason: [stop]
+2025-06-23 13:35:02.209 [info] request done: requestId: [5a094c22-a58b-4285-9beb-ff2d50b0d7d5] model deployment ID: []
+2025-06-23 13:51:42.600 [info] Logged in as r-rabbani11
+2025-06-23 13:51:44.363 [info] Got Copilot token for r-rabbani11
+2025-06-23 13:51:46.220 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 13:51:47.143 [info] message 0 returned. finish reason: [stop]
+2025-06-23 13:51:47.143 [info] request done: requestId: [2a618f66-a14b-4d95-9835-5265b116eab0] model deployment ID: []
+2025-06-23 13:51:47.520 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 13:51:48.499 [info] Fetched model metadata in 907ms edced136-c42d-442c-bf2d-58a2232074e9
+2025-06-23 14:13:23.011 [info] Logged in as r-rabbani11
+2025-06-23 14:13:24.250 [info] Got Copilot token for r-rabbani11
+2025-06-23 14:13:24.560 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 14:13:24.713 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 14:59:39.335 [info] Logged in as r-rabbani11
+2025-06-23 14:59:40.369 [info] Got Copilot token for r-rabbani11
+2025-06-23 15:11:39.443 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 15:11:39.579 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 15:29:39.744 [info] Logged in as r-rabbani11
+2025-06-23 15:29:40.852 [info] Got Copilot token for r-rabbani11
+2025-06-23 15:41:39.347 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 15:41:39.492 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 15:59:39.372 [info] Logged in as r-rabbani11
+2025-06-23 15:59:40.666 [info] Got Copilot token for r-rabbani11
+2025-06-23 16:11:39.753 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 16:11:40.159 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 16:29:39.806 [info] Logged in as r-rabbani11
+2025-06-23 16:29:41.017 [info] Got Copilot token for r-rabbani11
+2025-06-23 16:41:39.697 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 16:41:40.060 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 16:59:39.769 [info] Logged in as r-rabbani11
+2025-06-23 16:59:40.896 [info] Got Copilot token for r-rabbani11
+2025-06-23 17:11:39.609 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 17:11:40.424 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 17:29:39.696 [info] Logged in as r-rabbani11
+2025-06-23 17:29:40.861 [info] Got Copilot token for r-rabbani11
+2025-06-23 17:41:39.546 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 17:41:39.683 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 17:59:39.636 [info] Logged in as r-rabbani11
+2025-06-23 17:59:40.777 [info] Got Copilot token for r-rabbani11
+2025-06-23 18:11:39.837 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 18:11:39.999 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 18:29:39.286 [info] Logged in as r-rabbani11
+2025-06-23 18:29:40.348 [info] Got Copilot token for r-rabbani11
+2025-06-23 18:41:39.466 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 18:41:39.609 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 18:59:39.499 [info] Logged in as r-rabbani11
+2025-06-23 18:59:40.654 [info] Got Copilot token for r-rabbani11
+2025-06-23 19:11:39.433 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 19:11:39.595 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 19:29:39.549 [info] Logged in as r-rabbani11
+2025-06-23 19:29:40.782 [info] Got Copilot token for r-rabbani11
+2025-06-23 19:41:39.443 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 19:41:39.616 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 19:59:39.544 [info] Logged in as r-rabbani11
+2025-06-23 19:59:41.036 [info] Got Copilot token for r-rabbani11
+2025-06-23 20:11:39.766 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 20:11:39.930 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 20:29:39.571 [info] Logged in as r-rabbani11
+2025-06-23 20:29:40.743 [info] Got Copilot token for r-rabbani11
+2025-06-23 20:41:39.673 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 20:41:39.929 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 20:59:39.493 [info] Logged in as r-rabbani11
+2025-06-23 20:59:40.761 [info] Got Copilot token for r-rabbani11
+2025-06-23 21:11:39.370 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 21:11:39.578 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 21:29:39.349 [info] Logged in as r-rabbani11
+2025-06-23 21:29:40.610 [info] Got Copilot token for r-rabbani11
+2025-06-23 21:41:39.355 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-06-23 21:41:39.500 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-06-23 21:59:39.287 [info] Logged in as r-rabbani11
+2025-06-23 21:59:40.573 [info] Got Copilot token for r-rabbani11

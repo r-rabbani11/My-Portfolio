@@ -1,0 +1,10 @@
+2025-06-15 19:22:35.360 [info] Extension host with pid 1283 started
+2025-06-15 19:22:35.609 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-06-15 19:22:35.611 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-15 19:22:35.612 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-15 19:22:35.613 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-06-15 19:22:36.615 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-06-15 19:22:36.823 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-06-15 19:22:37.032 [info] Eager extensions activated
+2025-06-15 19:22:37.033 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-06-15 19:22:37.033 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

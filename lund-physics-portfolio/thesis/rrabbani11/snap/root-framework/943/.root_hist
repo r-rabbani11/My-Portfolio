@@ -1,0 +1,424 @@
+calibration({"firstdata.root"})
+analyze({"firstdata.root", /home/rrabbani11/fist_data})
+analyze({"firstdata.root"}, "/home/rrabbani11/fist_data")
+analyzek2pi({"firstdata.root"}, "/home/rrabbani11/fist_data")
+drawRatioWithExperimentalData();
+drawRatiosk2pi();
+drawCalibration();
+drawCalibration(hCalib);
+TFile* calibFile = TFile::Open("calibration.root", "READ");
+TH1D* hCalib = (TH1D*)calibFile->Get("hCalib");
+drawCalibration(hCalib);
+new TBrowser
+analyze({"firstdata.root"}, "/home/rrabbani11/fist_data")
+analyzek2pi({"firstdata.root"}, "/home/rrabbani11/fist_data")
+drawRatioWithExperimentalData();
+drawRatiosk2pi();
+new TBrowser
+drawRatiosk2pi();
+.q
+.L libRootDict.so 
+.L analysisroot2.C+
+calibration({"seconddata.root"})
+.q
+.L libRootDict.so 
+.L analysisroot2.C+
+calibration({"pythia-000.root"})
+analyze({"pythia-000.root"}, "/home/rrabbani11/fist_data")
+drawRatioWithExperimentalData();
+analyzek2pi({"pythia-000.root"}, "/home/rrabbani11/fist_data")
+drawRatiosk2pi();
+.q
+.L libRootDict.so 
+.L analysisroot2.C+
+.L analysisroot2.C+
+calibration({"pythia-000.root"})
+analyzexixibar({"pythia-000.root"})
+analyzexixibar({"pythia-000.root"})
+drawRatiosXiXibar();
+new TBrowser
+drawRatiosXiXibar();
+.L analysisroot2.C+
+drawRatiosXiXibar();
+new TBrowser
+.L analysisroot2.C+
+analyzexixibar({"pythia-000.root"})
+drawRatiosXiXibar();
+new TBrowser
+drawRatiosXiXibar();
+drawRatiosXiXibar();
+.L analysisroot2.C+
+drawRatiosXiXibar();
+.L analysisroot2.C+
+.L analysisroot2.C+
+.L analysisroot2.C+
+.L libRootDict.so 
+.L analysisroot2.C+
+calibration({"pythia-000.root"})
+analyzexixibar({"pythia-000.root"})
+drawRatiosXiXibar();
+new TBrowser
+.q
+new TBrowser
+.L libRootDict.so 
+.L analysisroot2.C+
+drawRatiosXiXibar();
+.L analysisroot2.C+
+drawRatiosXiXibar();
+new TBrowser
+.q
+.L libRootDict.so 
+.L analysisroot2.C+
+.L libRootDict.so 
+.L analysisroot2.C+
+.L libRootDict.so 
+.L analysisroot2.C+
+calibration("home/pythia8313/examples/pythiarun")
+calibration("home/rrabbani11/pythia8313/examples/pythiarun")
+.q
+.L libRootDict.so 
+.L analysisroot2.C+
+calibration("/home/rrabbani11/pythia8313/examples/pythiarun")
+.q
+.L libRootDict.so 
+.L analysisroot2.C+
+calibration("/home/rrabbani11/pythia8313/examples/pythiarun0");
+calibration("../pythiarun");
+calibration("pythiarun");
+calibration();
+calibration("/home/rrabbani11/pythia8313/examples/pythiarun");
+.q
+.L libRootDict.so 
+.L analysisroot2.C+
+calibration("/home/rrabbani11/pythia8313/examples/");
+drawCalibration(hCalib);
+drawCalibration();
+TFile* calibFile = TFile::Open("calibration.root", "READ");
+TH1D* hCalib = (TH1D*)calibFile->Get("hCalib");
+drawCalibration(hCalib);
+analyze("/home/rrabbani11/pythia8313/examples/", "/home/rrabbani11/fist_data")
+drawRatioWithExperimentalData();
+new TBrowser
+analyzexixibar("/home/rrabbani11/pythia8313/examples/")
+drawRatiosXiXibar();
+new TBrowser
+analyzek2pi("/home/rrabbani11/pythia8313/examples/", "/home/rrabbani11/fist_data")
+drawRatiosk2pi();
+drawRatioWithExperimentalData();
+.L libRootDict.so 
+.L analysisroot2.C+
+analyze("/home/rrabbani11/pythia8313/examples/", "/home/rrabbani11/fist_data")
+analyze("/home/rrabbani11/pythia8313/examples/", "/home/rrabbani11/fist_data")
+.q
+.L libRootDict.so 
+.L analysisroot2.C+
+calibration("/home/rrabbani11/pythia8313/examples/");
+analyze("/home/rrabbani11/pythia8313/examples/", "/home/rrabbani11/fist_data")
+drawRatioWithExperimentalData();
+.L analysisroot2.C+
+analyze("/home/rrabbani11/pythia8313/examples/", "/home/rrabbani11/fist_data")
+drawRatioWithExperimentalData();
+.L analysisroot2.C+
+analyze("/home/rrabbani11/pythia8313/examples/", "/home/rrabbani11/fist_data")
+drawRatioWithExperimentalData();
+.L analysisroot2.C+
+analyze("/home/rrabbani11/pythia8313/examples/", "/home/rrabbani11/fist_data")
+drawRatioWithExperimentalData();
+analyzek2pi("/home/rrabbani11/pythia8313/examples/", "/home/rrabbani11/fist_data")
+drawRatiok2pi();
+drawRatiosk2pi();
+new TBrowser
+new TBrowser
+analyzexixibar("/home/rrabbani11/pythia8313/examples/")
+drawRatiosXiXibar();
+new TBrowser
+new TBrowser
+.L libRootDict.so 
+.L analysisroot2.C+
+.q
+.L libRootDict.so 
+.L analysisroot2.C+
+analyze("/home/rrabbani11/pythia8313/examples/", "/home/rrabbani11/fist_data")
+new TBrowser
+.L analysisroot2.C+
+drawRatioWithExperimentalData();
+.q
+.L libRootDict.so 
+.L analysisroot2.C+
+analyze({"pythiarun000.root"}, "/home/rrabbani11/fist_data")
+drawRatioWithExperimentalData();
+.q
+.L libRootDict.so 
+.L analysisroot2.C+
+.L analysisroot2.C+
+.L analysisroot2.C+
+analyze({"pythiarun000.root"})
+drawRatioWithExperimentalData();
+.L analysisroot2.C+
+.L analysisroot2.C+
+drawRatioWithExperimentalData();
+.L libRootDict.so 
+.L analysisroot2.C+
+.L analysisroot2.C+
+analyze("/home/rrabbani11/pythia8313/examples/", "/home/rrabbani11/fist_data")
+.q
+.L libRootDict.so 
+.L analysisroot2.C+
+calibration("/home/rrabbani11/pythia8313/examples/");
+TFile* calibFile = TFile::Open("calibration.root", "READ");
+TH1D* hCalib = (TH1D*)calibFile->Get("hCalib");
+drawCalibration(hCalib);
+analyze("/home/rrabbani11/pythia8313/examples/", "/home/rrabbani11/fist_data")
+drawRatioWithExperimentalData();
+analyzek2pi("/home/rrabbani11/pythia8313/examples/", "/home/rrabbani11/fist_data")
+drawRatiosk2pi();
+.L libRootDict.so 
+.L analysisroot2.C+
+drawRatiosk2pi();
+drawRatiosk2pi();
+analyzek2pi("/home/rrabbani11/pythia8313/examples/", "/home/rrabbani11/fist_data")
+.q
+.L libRootDict.so 
+.L analysisroot2.C+
+calibration("/home/rrabbani11/pythia8313/examples/");
+analyzek2pi("/home/rrabbani11/pythia8313/examples/", "/home/rrabbani11/fist_data")
+drawRatiosk2pi();
+.L analysisroot2.C+
+.L analysisroot2.C+
+analyzexixibar("/home/rrabbani11/pythia8313/examples/")
+drawRatiosXiXibar();
+drawRatiosXiXibarpiplusonly();
+drawRatiosXiXibarpiplusminus();
+new TBrowser
+.q
+.L libRootDict.so 
+.L analysisroot2.C+
+calibration("/home/rrabbani11/pythia8313/examples/");
+analyze("/home/rrabbani11/pythia8313/examples/", "/home/rrabbani11/fist_data")
+analyzek2pi("/home/rrabbani11/pythia8313/examples/", "/home/rrabbani11/fist_data")
+drawRatioWithExperimentalData();
+drawRatiosk2pi();
+.L analysisroot2.C+
+calibration("/home/rrabbani11/pythia8313/examples/");
+analyze("/home/rrabbani11/pythia8313/examples/", "/home/rrabbani11/fist_data")
+analyzek2pi("/home/rrabbani11/pythia8313/examples/", "/home/rrabbani11/fist_data")
+TFile* calibFile = TFile::Open("calibration.root", "READ");
+TH1D* hCalib = (TH1D*)calibFile->Get("hCalib");
+drawCalibration(hCalib);
+drawRatioWithExperimentalData();
+drawRatioWithExperimentalData();
+drawRatiosk2pi();
+.L analysisroot2.C+
+.q
+.L libRootDict.so 
+.L analysisroot2.C+
+.L analysisroot2.C+
+.q
+.L libRootDict.so 
+.L analysisroot2.C+
+calibration("/home/rrabbani11/pythia8313/examples/");
+analyzexixibar("/home/rrabbani11/pythia8313/examples/")
+drawRatiosXiXibar();
+new TBrowser
+.L analysisroot2.C+
+analyzexixibar("/home/rrabbani11/pythia8313/examples/")
+drawRatiosXiXibar();
+new TBrowser
+.L libRootDict.so 
+.L analysisroot2.C+
+analyzexixibar("/home/rrabbani11/pythia8313/examples/")
+drawRatiosXiXibar();
+new TBrowser
+.L analysisroot2.C+
+analyzexixibar("/home/rrabbani11/pythia8313/examples/")
+drawRatiosXiXibar();
+new TBrowser
+.L libRootDict.so 
+.L analysisroot2.C+
+calibration("/home/rrabbani11/pythia8313/examples/");
+analyzexixibar("/home/rrabbani11/pythia8313/examples/")
+drawRatiosXiXibar();
+new TBrowser
+.L libRootDict.so 
+.L analysisroot2.C+
+drawRatioWithExperimentalData();
+drawRatiosk2pi();
+drawRatiosXiXibar();
+.L analysisroot2.C+
+drawRatiosXiXibar();
+.L analysisroot2.C+
+analyzexixibar("/home/rrabbani11/pythia8313/examples/")
+drawRatiosXiXibar();
+.L analysisroot2.C+
+analyzexixibar("/home/rrabbani11/pythia8313/examples/")
+drawRatiosXiXibar();
+new TBrowser
+.L analysisroot2.C+
+analyzexixibar("/home/rrabbani11/pythia8313/examples/")
+drawRatiosXiXibar();
+new TBrowser
+.L analysisroot2.C+
+analyzexixibar("/home/rrabbani11/pythia8313/examples/")
+drawRatiosXiXibar();
+new TBrowser
+.L analysisroot2.C+
+analyzexixibar("/home/rrabbani11/pythia8313/examples/")
+drawRatiosXiXibar();
+new TBrowser
+.L libRootDict.so 
+.L analysisroot2.C+
+.L analysisroot2.C+
+.L analysisroot2.C+
+analyzexixibarFIST("/home/rrabbani11/fist_data/")
+drawRatiosXiXibarFIST();
+new TBrowser
+.q
+.L libRootDict.so 
+.L analysisroot2.C+
+calibration("/home/rrabbani11/pythia8313/examples/");
+analyzexixibar("/home/rrabbani11/pythia8313/examples/")
+drawRatiosXiXibar();
+new TBrowser
+new TBrower
+new TBrowser
+.L libRootDict.so 
+.L analysisroot2.C+
+drawRatiosk2pi();
+drawRatiosk2pi();
+drawRatiosXiXibar();
+drawRatiosXiXibarFIST();
+.q
+.L libRootDict.so 
+.L analysisroot2.C+
+calibration("/home/rrabbani11/pythia8313/examples/");
+TFile* calibFile = TFile::Open("calibration.root", "READ");
+TH1D* hCalib = (TH1D*)calibFile->Get("hCalib");
+drawCalibration(hCalib);
+analyzexixibar("/home/rrabbani11/pythia8313/examples/")
+drawRatiosXiXibar();
+new TBrowser
+analyzexixibar01("/home/rrabbani11/pythia8313/examples/")
+.L analysisroot2.C+
+drawRatiosXiXibar();
+new TBrowser
+analyzexixibarkminus("/home/rrabbani11/pythia8313/examples/")
+.L analysisroot2.C+
+.L analysisroot2.C+
+drawRatiosXiXibar();
+new TBrowser
+analyzek2pi("/home/rrabbani11/pythia8313/examples/", "/home/rrabbani11/fist_data")
+drawRatiosk2pi();
+analyzexixibar005("/home/rrabbani11/pythia8313/examples/")
+.L libRootDict.so 
+.L analysisroot2.C+
+.L analysisroot2.C+
+calibration("/home/rrabbani11/pythia8313/examples/");
+analyzexixibar("/home/rrabbani11/pythia8313/examples/")
+drawRatiosXiXibar();
+new TBrowser
+new TBrowser
+.L libRootDict.so 
+.L analysisroot2.C+
+calibration("/home/rrabbani11/pythia8313/examples/");
+.q
+.L libRootDict.so 
+.L analysisroot2.C+
+calibration("/home/rrabbani11/pythia8313/examples/");
+analyzexixibar("/home/rrabbani11/pythia8313/examples/")
+drawRatiosXiXibar();
+new TBrowser
+.L analysisroot2.C+
+analyzexixibar01("/home/rrabbani11/pythia8313/examples/")
+.L analysisroot2.C+
+.L analysisroot2.C+
+drawRatioWithExperimentalData();
+.L analysisroot2.C+
+TFile* calibFile = TFile::Open("calibration.root", "READ");
+TH1D* hCalib = (TH1D*)calibFile->Get("hCalib");
+drawCalibration(hCalib);
+drawRatioWithExperimentalData();
+drawRatiosXiXibar();
+new TBrowser
+.L analysisroot2.C+
+drawRatiosXiXibar();
+.L analysisroot2.C+
+drawRatiosXiXibar();
+new TBrowser
+.L analysisroot2.C+
+drawRatiosXiXibar();
+new TBrowser
+.L analysisroot2.C+
+drawRatiosXiXibar();
+drawRatiosXiXibarFIST()
+analyzek2pi("/home/rrabbani11/pythia8313/examples/", "/home/rrabbani11/fist_data")
+drawRatiosk2pi()
+.L analysisroot2.C+
+drawRatiosk2pi()
+.L analysisroot2.C+
+drawRatiosk2pi()
+drawRatiosXiXibarFIST()
+.L analysisroot2.C+
+drawRatiosXiXibarFIST()
+drawRatiosXiXibarFIST()
+drawRatiosXiXibar()
+new TBrowser
+.L analysisroot2.C+
+drawRatiosXiXibar()
+new TBrowser
+drawRatiosXiXibarFIST()
+.L analysisroot2.C+
+analyzexixibarplusminus("/home/rrabbani11/pythia8313/examples/")
+.L analysisroot2.C+
+TFile* calibFile = TFile::Open("calibration.root", "READ");
+TH1D* hCalib = (TH1D*)calibFile->Get("hCalib");
+drawCalibration(hCalib);
+.L analysisroot2.C+
+TFile* calibFile = TFile::Open("calibration.root", "READ");
+TH1D* hCalib = (TH1D*)calibFile->Get("hCalib");
+drawCalibration(hCalib);
+drawRatiosXiXibarplusminus()
+new TBrowser
+.L analysisroot2.C+
+analyzexixibarFIST("/home/rrabbani11/fist_data/")
+.L analysisroot2.C+
+drawRatiosXiXibarFIST()
+drawRatiosk2pi()
+.L analysisroot2.C+
+drawRatiosk2pi()
+.L analysisroot2.C+
+drawRatiosXiXibar()
+new TBrowser
+drawRatiosXiXibarplusminus()
+new TBrowser
+.L analysisroot2.C+
+.L analysisroot2.C+
+.L analysisroot2.C+
+.L libRootDict.so 
+.L analysisroot2.C+
+drawRatiosXiXibarFIST()
+.L analysisroot2.C+
+drawRatiosXiXibarFIST()
+.L analysisroot2.C+
+drawRatiosXiXibarFIST()
+.L analysisroot2.C+
+drawRatiosXiXibarFIST()
+.L analysisroot2.C+
+drawRatiosXiXibarFIST()
+.L libRootDict.so 
+.L analysisroot2.C+
+drawRatiosXiXibarFIST()
+.L analysisroot2.C+
+analyzexixibarFIST("/home/rrabbani11/fist_data/")
+drawRatiosXiXibarFIST()
+.L analysisroot2.C+
+drawRatiosXiXibar()
+new TBrowser
+.L analysisroot2.C+
+drawRatiosXiXibarplusminus()
+new TBrowser
+.L analysisroot2.C+
+drawRatiosk2pi()
+.L analysisroot2.C+
+analyzexixibarFIST("/home/rrabbani11/fist_data/")
+.L analysisroot2.C+
+drawRatiosXiXibarFIST()

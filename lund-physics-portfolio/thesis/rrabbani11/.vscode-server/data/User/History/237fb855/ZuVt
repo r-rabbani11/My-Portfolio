@@ -1,0 +1,28 @@
+# Compiler
+CXX = g++
+
+# Compiler flags
+CXXFLAGS = -Wall -Wextra -O2 -w -Wl,-rpath,./ -std=c++11
+
+# Target executable
+TARGET = FISTOnly
+
+# Source file
+SRC = $(TARGET).C
+
+# Thermal-FIST paths
+FIST = $(PWD)
+FIST_INC = -I $(FIST)/include/ -I $(FIST)/thirdparty/MersenneTwister/
+FIST_LIB = -L $(FIST)/build/lib -lThermalFIST
+
+# ROOT flags
+ROOT_CFLAGS = $(shell root-config --cflags)
+ROOT_LIBS = $(shell root-config --libs)
+
+# Compilation rule
+$(TARGET): $(SRC)
+    $(CXX) $(CXXFLAGS) $(ROOT_CFLAGS) -o $(TARGET) $(SRC) $(FIST_INC) $(FIST_LIB) $(ROOT_LIBS)
+
+# Clean rule
+clean:
+    rm -f $(TARGET)

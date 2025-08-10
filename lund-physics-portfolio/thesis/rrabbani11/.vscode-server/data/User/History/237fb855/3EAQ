@@ -1,0 +1,44 @@
+# Compiler
+CXX = g++
+
+# Compiler flags
+CXXFLAGS = -Wall -Wextra -O2 -Wl,-rpath,./ -std=c++11
+
+# Target executable
+TARGET = FistOnly
+
+# Source files
+SRC = FistOnly.C MyEvent.cxx MyParticle.cxx MyDict.cxx
+
+# Thermal-FIST paths
+FIST = $(PWD)
+FIST_INC = -I $(FIST)/include/ -I $(FIST)/thirdparty/MersenneTwister/
+FIST_LIB = -L /home/rrabbani11/Thermal-FIST/build/lib -l ThermalFIST -Wl,-rpath,/home/rrabbani11/Thermal-FIST/build/lib
+
+# Pythia and ROOT paths
+PYROOT = ../pythia8313/examples/
+PYROOT_INC = -I $(PYROOT)/
+PYROOT_LIB = -L$(PYROOT) -Wl,-rpath,$(PYROOT)
+ROOT = $(shell root-config --cflags --glibs) -lMinuit2 -lEG
+
+# Set dynamic library path (macOS or Linux)
+UNAME := $(shell uname)
+ifeq ($(UNAME), Darwin)
+    export DYLD_LIBRARY_PATH+=$(PYROOT)
+else
+    export LD_LIBRARY_PATH+=$(PYROOT)
+endif
+
+
+
+# Compilation rule
+$(TARGET): $(SRC)
+	$(CXX) $(CXXFLAGS) -o $(TARGET) $(SRC) $(FIST_INC) $(FIST_LIB) $(PYROOT_INC) $(PYROOT_LIB) $(ROOT)
+
+# Rule to generate ROOT dictionary
+MyDict.cxx: MyEvent.h MyParticle.h LinkDef.h
+	rootcling -f $@ -c $^
+
+# Clean rule
+clean:
+	rm -f $(TARGET) MyDict.cxx MyDict_rdict.pcm

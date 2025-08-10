@@ -1,0 +1,12 @@
+2025-01-31 04:16:01.991 [error] Error: ENOENT: no such file or directory, access '/run/user/1000/wayland-0'
+    at async Object.access (node:internal/original-fs/promises:608:10)
+    at async N9 (file:///snap/code/181/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:119:9381)
+    at async Promise.all (index 1)
+    at async u8.r (file:///snap/code/181/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:119:34604)
+2025-01-31 04:16:08.682 [error] [network] #1: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_NAME_NOT_RESOLVED
+2025-01-31 04:16:12.986 [error] [network] #2: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2025-01-31 04:16:21.528 [error] [network] #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2025-01-31 04:16:21.528 [error] [network] #4: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2025-01-31 04:16:32.877 [error] [network] #5: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2025-01-31 04:16:47.588 [error] [network] #6: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
+2025-01-31 04:16:54.237 [error] [network] #7: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED

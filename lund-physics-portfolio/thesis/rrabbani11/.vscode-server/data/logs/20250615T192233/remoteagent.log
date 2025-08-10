@@ -1,0 +1,29 @@
+2025-06-15 19:22:33.406 [info] 
+
+
+
+
+2025-06-15 19:22:33.427 [info] Extension host agent started.
+2025-06-15 19:22:33.819 [info] [127.0.0.1][caaec787][ManagementConnection] New connection established.
+2025-06-15 19:22:34.154 [info] ComputeTargetPlatform: linux-x64
+2025-06-15 19:22:34.198 [info] [127.0.0.1][4760baa2][ExtensionHostConnection] New connection established.
+2025-06-15 19:22:34.229 [info] [127.0.0.1][4760baa2][ExtensionHostConnection] <1283> Launched Extension Host Process.
+2025-06-15 19:22:38.709 [info] ComputeTargetPlatform: linux-x64
+2025-06-15 19:22:39.734 [info] Getting Manifest... github.copilot
+2025-06-15 19:22:39.735 [info] Getting Manifest... github.copilot-chat
+2025-06-15 19:22:39.852 [info] Installing extension: github.copilot {"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"profileLocation":{"$mid":1,"fsPath":"/home/rrabbani11/.vscode-server/extensions/extensions.json","external":"file:///home/rrabbani11/.vscode-server/extensions/extensions.json","path":"/home/rrabbani11/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-06-15 19:22:39.865 [info] Installing extension: github.copilot-chat {"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"profileLocation":{"$mid":1,"fsPath":"/home/rrabbani11/.vscode-server/extensions/extensions.json","external":"file:///home/rrabbani11/.vscode-server/extensions/extensions.json","path":"/home/rrabbani11/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-06-15 19:22:40.392 [info] Getting Manifest... github.copilot
+2025-06-15 19:22:40.871 [info] Getting Manifest... github.copilot-chat
+2025-06-15 19:22:43.634 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 2529ms.
+2025-06-15 19:22:44.413 [info] Extracted extension to file:///home/rrabbani11/.vscode-server/extensions/github.copilot-chat-0.27.3: github.copilot-chat
+2025-06-15 19:22:44.432 [info] Renamed to /home/rrabbani11/.vscode-server/extensions/github.copilot-chat-0.27.3
+2025-06-15 19:22:44.457 [info] Extension signature verification result for github.copilot: Success. Internal Code: 0. Executed: true. Duration: 2343ms.
+2025-06-15 19:22:44.465 [info] Marked extension as removed github.copilot-chat-0.27.2
+2025-06-15 19:22:44.467 [info] Extension installed successfully: github.copilot-chat file:///home/rrabbani11/.vscode-server/extensions/extensions.json
+2025-06-15 19:22:45.677 [info] Extracted extension to file:///home/rrabbani11/.vscode-server/extensions/github.copilot-1.335.0: github.copilot
+2025-06-15 19:22:45.688 [info] Renamed to /home/rrabbani11/.vscode-server/extensions/github.copilot-1.335.0
+2025-06-15 19:22:45.703 [info] Marked extension as removed github.copilot-1.323.0
+2025-06-15 19:22:45.712 [info] Extension installed successfully: github.copilot file:///home/rrabbani11/.vscode-server/extensions/extensions.json
+2025-06-15 19:23:04.646 [error] #16: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST read ECONNRESET
+2025-06-21 05:16:53.770 [info] [127.0.0.1][caaec787][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

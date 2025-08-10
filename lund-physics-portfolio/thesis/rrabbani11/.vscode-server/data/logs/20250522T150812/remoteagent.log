@@ -1,0 +1,13 @@
+2025-05-22 15:08:13.072 [info] 
+
+
+
+
+2025-05-22 15:08:13.170 [info] Extension host agent started.
+2025-05-22 15:08:13.307 [info] [127.0.0.1][f7622525][ManagementConnection] New connection established.
+2025-05-22 15:08:14.159 [info] [127.0.0.1][f74e8234][ExtensionHostConnection] New connection established.
+2025-05-22 15:08:14.386 [info] ComputeTargetPlatform: linux-x64
+2025-05-22 15:08:14.480 [info] [127.0.0.1][f74e8234][ExtensionHostConnection] <184949> Launched Extension Host Process.
+2025-05-22 15:08:17.172 [info] ComputeTargetPlatform: linux-x64
+2025-05-24 22:59:27.258 [info] [127.0.0.1][f74e8234][ExtensionHostConnection] The client has reconnected.
+2025-05-24 22:59:26.020 [info] [127.0.0.1][f74e8234][ExtensionHostConnection] <184949> Extension Host Process exited with code: 0, signal: null.

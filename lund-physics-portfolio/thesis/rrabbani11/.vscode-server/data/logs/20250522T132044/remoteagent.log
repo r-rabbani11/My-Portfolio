@@ -1,0 +1,14 @@
+2025-05-22 13:20:44.323 [info] 
+
+
+
+
+2025-05-22 13:20:44.344 [info] Extension host agent started.
+2025-05-22 13:20:44.597 [info] [127.0.0.1][8d741f15][ManagementConnection] New connection established.
+2025-05-22 13:20:44.601 [info] Deleted marked for removal extension from disk github.copilot /home/rrabbani11/.vscode-server/extensions/github.copilot-1.322.0
+2025-05-22 13:20:44.807 [info] ComputeTargetPlatform: linux-x64
+2025-05-22 13:20:45.176 [info] [127.0.0.1][dca8493a][ExtensionHostConnection] New connection established.
+2025-05-22 13:20:45.186 [info] [127.0.0.1][dca8493a][ExtensionHostConnection] <180170> Launched Extension Host Process.
+2025-05-22 13:20:47.713 [info] ComputeTargetPlatform: linux-x64
+2025-05-22 15:07:59.366 [info] [127.0.0.1][8d741f15][ManagementConnection] The client has reconnected.
+2025-05-22 15:07:59.776 [info] [127.0.0.1][8d741f15][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.

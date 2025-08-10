@@ -1,0 +1,5 @@
+2025-01-31 04:11:23.369 [error] Error: ENOENT: no such file or directory, access '/run/user/1000/wayland-0'
+    at async Object.access (node:internal/original-fs/promises:608:10)
+    at async N9 (file:///snap/code/181/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:119:9381)
+    at async Promise.all (index 1)
+    at async u8.r (file:///snap/code/181/usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:119:34604)

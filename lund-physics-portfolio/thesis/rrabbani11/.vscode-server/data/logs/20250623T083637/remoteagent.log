@@ -1,0 +1,27 @@
+2025-06-23 08:36:37.260 [info] 
+
+
+
+
+2025-06-23 08:36:37.279 [info] Extension host agent started.
+2025-06-23 08:36:37.488 [info] Deleted marked for removal extension from disk github.copilot /home/rrabbani11/.vscode-server/extensions/github.copilot-1.323.0
+2025-06-23 08:36:37.490 [info] Deleted marked for removal extension from disk github.copilot-chat /home/rrabbani11/.vscode-server/extensions/github.copilot-chat-0.27.2
+2025-06-23 08:36:37.537 [info] [127.0.0.1][4f91b464][ManagementConnection] New connection established.
+2025-06-23 08:36:37.667 [info] ComputeTargetPlatform: linux-x64
+2025-06-23 08:36:37.973 [info] [127.0.0.1][dc7639c2][ExtensionHostConnection] New connection established.
+2025-06-23 08:36:37.981 [info] [127.0.0.1][dc7639c2][ExtensionHostConnection] <1857> Launched Extension Host Process.
+2025-06-23 08:36:49.930 [info] ComputeTargetPlatform: linux-x64
+2025-06-23 08:36:51.038 [info] Getting Manifest... github.copilot
+2025-06-23 08:36:51.081 [info] Installing extension: github.copilot {"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"profileLocation":{"$mid":1,"fsPath":"/home/rrabbani11/.vscode-server/extensions/extensions.json","external":"file:///home/rrabbani11/.vscode-server/extensions/extensions.json","path":"/home/rrabbani11/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-06-23 08:36:51.811 [info] Getting Manifest... github.copilot-chat
+2025-06-23 08:36:57.066 [info] Extension signature verification result for github.copilot: Success. Internal Code: 0. Executed: true. Duration: 1939ms.
+2025-06-23 08:36:58.447 [info] Extracted extension to file:///home/rrabbani11/.vscode-server/extensions/github.copilot-1.336.0: github.copilot
+2025-06-23 08:36:58.460 [info] Renamed to /home/rrabbani11/.vscode-server/extensions/github.copilot-1.336.0
+2025-06-23 08:36:58.474 [info] Marked extension as removed github.copilot-1.335.0
+2025-06-23 08:36:58.482 [info] Extension installed successfully: github.copilot file:///home/rrabbani11/.vscode-server/extensions/extensions.json
+2025-06-23 12:53:31.646 [info] [127.0.0.1][dc7639c2][ExtensionHostConnection] The client has reconnected.
+2025-06-23 12:53:32.044 [info] [127.0.0.1][4f91b464][ManagementConnection] The client has reconnected.
+2025-06-23 13:24:01.270 [info] [127.0.0.1][4f91b464][ManagementConnection] The client has reconnected.
+2025-06-23 13:24:02.145 [info] [127.0.0.1][dc7639c2][ExtensionHostConnection] The client has reconnected.
+2025-06-23 14:01:32.235 [info] [127.0.0.1][4f91b464][ManagementConnection] The client has reconnected.
+2025-06-23 14:01:33.087 [info] [127.0.0.1][dc7639c2][ExtensionHostConnection] The client has reconnected.

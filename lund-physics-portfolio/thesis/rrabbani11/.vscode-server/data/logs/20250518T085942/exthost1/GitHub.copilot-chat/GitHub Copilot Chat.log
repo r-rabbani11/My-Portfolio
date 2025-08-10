@@ -1,0 +1,225 @@
+2025-05-18 10:11:06.269 [info] Can't use the Electron fetcher in this environment.
+2025-05-18 10:11:06.269 [info] Using the Node fetch fetcher.
+2025-05-18 10:11:06.269 [info] Initializing Git extension service.
+2025-05-18 10:11:06.269 [info] Successfully activated the vscode.git extension.
+2025-05-18 10:11:06.269 [info] Enablement state of the vscode.git extension: true.
+2025-05-18 10:11:06.269 [info] Successfully registered Git commit message provider.
+2025-05-18 10:11:06.814 [info] Logged in as r-rabbani11
+2025-05-18 10:11:08.148 [info] Got Copilot token for r-rabbani11
+2025-05-18 10:11:08.770 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 10:11:08.770 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-05-18 10:11:08.795 [info] Registering default platform agent...
+2025-05-18 10:11:09.317 [info] Fetched model metadata in 1158ms 31ec4bfd-3195-439f-97a2-d9d79cff1f62
+2025-05-18 10:11:09.320 [info] activationBlocker from 'languageModelAccess' took for 3024ms
+2025-05-18 10:11:09.360 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-18 10:12:26.086 [info] message 0 returned. finish reason: [stop]
+2025-05-18 10:12:26.086 [info] request done: requestId: [2c2d9537-e442-4d96-aa01-983e6679ca2f] model deployment ID: []
+2025-05-18 10:12:35.511 [info] message 0 returned. finish reason: [stop]
+2025-05-18 10:12:35.512 [info] request done: requestId: [79525208-0f5a-4db7-a7c8-b2baa73920e2] model deployment ID: []
+2025-05-18 10:12:37.930 [info] message 0 returned. finish reason: [stop]
+2025-05-18 10:12:37.930 [info] request done: requestId: [4d2689e7-cb62-4373-81bd-62e095bba6a4] model deployment ID: []
+2025-05-18 10:41:13.426 [info] Logged in as r-rabbani11
+2025-05-18 10:41:14.743 [info] Got Copilot token for r-rabbani11
+2025-05-18 10:41:15.086 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 10:41:15.284 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-18 11:16:34.210 [info] Logged in as r-rabbani11
+2025-05-18 11:16:35.367 [info] Got Copilot token for r-rabbani11
+2025-05-18 11:16:35.955 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 11:16:36.131 [info] Fetched model metadata in 751ms f94a7a52-522a-47aa-95d8-a80c5c5cea68
+2025-05-18 11:16:36.481 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-18 11:18:48.007 [info] message 0 returned. finish reason: [stop]
+2025-05-18 11:18:48.007 [info] request done: requestId: [102e07d2-0f52-430f-a114-c97a28e4c2d2] model deployment ID: []
+2025-05-18 11:18:58.634 [info] message 0 returned. finish reason: [stop]
+2025-05-18 11:18:58.635 [info] request done: requestId: [4f594803-f9c1-4ff1-99c0-1ea8654cc714] model deployment ID: []
+2025-05-18 11:46:36.729 [info] Logged in as r-rabbani11
+2025-05-18 11:46:37.760 [info] Got Copilot token for r-rabbani11
+2025-05-18 11:46:38.075 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 11:46:38.206 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-18 12:16:38.776 [info] Logged in as r-rabbani11
+2025-05-18 12:16:39.796 [info] Got Copilot token for r-rabbani11
+2025-05-18 12:16:40.116 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 12:16:40.242 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-18 12:46:40.794 [info] Logged in as r-rabbani11
+2025-05-18 12:46:41.873 [info] Got Copilot token for r-rabbani11
+2025-05-18 12:46:42.214 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 12:46:42.442 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-18 13:16:42.985 [info] Logged in as r-rabbani11
+2025-05-18 13:16:44.175 [info] Got Copilot token for r-rabbani11
+2025-05-18 13:16:44.554 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 13:16:44.743 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-18 13:25:03.111 [info] Fetched model metadata in 804ms 2d1b9e33-6e1e-4836-94b6-923370b07af4
+2025-05-18 13:25:06.601 [info] message 0 returned. finish reason: [stop]
+2025-05-18 13:25:06.601 [info] request done: requestId: [ee06ec68-51cf-4e05-9828-7d80c69e174d] model deployment ID: []
+2025-05-18 13:25:24.045 [info] message 0 returned. finish reason: [stop]
+2025-05-18 13:25:24.045 [info] request done: requestId: [d9508bcc-5d67-4096-8420-7d7ffd031240] model deployment ID: []
+2025-05-18 13:26:57.255 [info] message 0 returned. finish reason: [stop]
+2025-05-18 13:26:57.256 [info] request done: requestId: [79cefe0e-d3a5-44c3-a31d-79604926e14e] model deployment ID: []
+2025-05-18 13:27:05.969 [info] message 0 returned. finish reason: [stop]
+2025-05-18 13:27:05.969 [info] request done: requestId: [4f78c011-506f-4b95-941d-e54233a0a63f] model deployment ID: []
+2025-05-18 13:28:24.793 [info] message 0 returned. finish reason: [stop]
+2025-05-18 13:28:24.793 [info] request done: requestId: [514a1418-1fff-4659-8239-eb870a4d3f7d] model deployment ID: []
+2025-05-18 13:28:34.660 [info] message 0 returned. finish reason: [stop]
+2025-05-18 13:28:34.660 [info] request done: requestId: [1ada4240-9b7e-4b74-a8db-117d98bf41e4] model deployment ID: []
+2025-05-18 13:46:45.263 [info] Logged in as r-rabbani11
+2025-05-18 13:46:46.337 [info] Got Copilot token for r-rabbani11
+2025-05-18 13:46:46.655 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 13:46:46.814 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-18 14:16:47.385 [info] Logged in as r-rabbani11
+2025-05-18 14:16:48.429 [info] Got Copilot token for r-rabbani11
+2025-05-18 14:16:48.744 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 14:16:48.901 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-18 14:46:49.414 [info] Logged in as r-rabbani11
+2025-05-18 14:46:50.448 [info] Got Copilot token for r-rabbani11
+2025-05-18 14:46:50.764 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 14:46:50.916 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-18 15:16:51.443 [info] Logged in as r-rabbani11
+2025-05-18 15:16:53.026 [info] Got Copilot token for r-rabbani11
+2025-05-18 15:16:53.344 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 15:16:53.531 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-18 15:46:54.054 [info] Logged in as r-rabbani11
+2025-05-18 15:46:55.145 [info] Got Copilot token for r-rabbani11
+2025-05-18 15:46:55.493 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 15:46:55.662 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-18 16:16:56.213 [info] Logged in as r-rabbani11
+2025-05-18 16:16:57.257 [info] Got Copilot token for r-rabbani11
+2025-05-18 16:16:57.595 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 16:16:57.746 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-18 16:55:49.186 [info] Logged in as r-rabbani11
+2025-05-18 16:55:50.288 [info] Got Copilot token for r-rabbani11
+2025-05-18 16:55:50.626 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 16:55:50.768 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-18 17:19:15.926 [info] Logged in as r-rabbani11
+2025-05-18 17:19:17.083 [info] Got Copilot token for r-rabbani11
+2025-05-18 17:19:17.503 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 17:19:17.628 [info] Fetched model metadata in 2016ms c5286258-1416-42cc-bf6a-be8d9359b798
+2025-05-18 17:19:17.646 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-18 17:19:26.168 [info] message 0 returned. finish reason: [stop]
+2025-05-18 17:19:26.168 [info] request done: requestId: [2ed6ca6b-6c38-4c7e-bbe0-863858734038] model deployment ID: []
+2025-05-18 17:19:34.598 [info] message 0 returned. finish reason: [stop]
+2025-05-18 17:19:34.598 [info] request done: requestId: [680a8b30-28f0-4561-9906-85d754226d6f] model deployment ID: []
+2025-05-18 17:27:04.619 [info] message 0 returned. finish reason: [stop]
+2025-05-18 17:27:04.620 [info] request done: requestId: [27753fc2-c42a-44d6-a5c7-8b660cd5b211] model deployment ID: []
+2025-05-18 17:27:11.681 [info] message 0 returned. finish reason: [stop]
+2025-05-18 17:27:11.681 [info] request done: requestId: [29054efd-efe2-4549-855f-5048fdaf256f] model deployment ID: []
+2025-05-18 17:28:01.127 [info] message 0 returned. finish reason: [stop]
+2025-05-18 17:28:01.128 [info] request done: requestId: [ff7438f6-feab-471b-8acb-3cce17f359f5] model deployment ID: []
+2025-05-18 17:28:08.165 [info] message 0 returned. finish reason: [stop]
+2025-05-18 17:28:08.165 [info] request done: requestId: [46ffe399-55c6-4b4c-8719-95e6386f8149] model deployment ID: []
+2025-05-18 17:32:24.592 [info] Fetched model metadata in 656ms 953ceb0e-58b6-475f-afe5-72861363986e
+2025-05-18 17:32:30.642 [info] message 0 returned. finish reason: [stop]
+2025-05-18 17:32:30.642 [info] request done: requestId: [d9c4fcce-a8e0-4841-8a74-199071fd55d8] model deployment ID: []
+2025-05-18 17:32:38.751 [info] message 0 returned. finish reason: [stop]
+2025-05-18 17:32:38.751 [info] request done: requestId: [01481683-87eb-46b0-9bb3-0edef0b818a6] model deployment ID: []
+2025-05-18 17:49:18.115 [info] Logged in as r-rabbani11
+2025-05-18 17:49:19.158 [info] Got Copilot token for r-rabbani11
+2025-05-18 17:49:19.713 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 17:49:19.834 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-18 18:24:33.627 [info] Logged in as r-rabbani11
+2025-05-18 18:24:34.726 [info] Got Copilot token for r-rabbani11
+2025-05-18 18:24:35.055 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 18:24:35.198 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-18 18:54:35.737 [info] Logged in as r-rabbani11
+2025-05-18 18:54:38.111 [info] Got Copilot token for r-rabbani11
+2025-05-18 18:54:38.457 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 18:54:38.661 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-18 19:24:39.153 [info] Logged in as r-rabbani11
+2025-05-18 19:24:40.341 [info] Got Copilot token for r-rabbani11
+2025-05-18 19:24:40.743 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 19:24:40.923 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-18 19:54:41.477 [info] Logged in as r-rabbani11
+2025-05-18 19:54:42.640 [info] Got Copilot token for r-rabbani11
+2025-05-18 19:54:42.993 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 19:54:43.241 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-18 21:25:41.078 [info] Logged in as r-rabbani11
+2025-05-18 21:25:42.164 [info] Got Copilot token for r-rabbani11
+2025-05-18 21:25:42.480 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 21:25:42.674 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-18 22:06:33.372 [info] Logged in as r-rabbani11
+2025-05-18 22:06:34.591 [info] Got Copilot token for r-rabbani11
+2025-05-18 22:18:32.920 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 22:18:33.137 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-18 22:36:32.977 [info] Logged in as r-rabbani11
+2025-05-18 22:36:34.026 [info] Got Copilot token for r-rabbani11
+2025-05-18 22:48:33.275 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 22:48:32.969 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-18 23:06:32.990 [info] Logged in as r-rabbani11
+2025-05-18 23:06:34.007 [info] Got Copilot token for r-rabbani11
+2025-05-18 23:18:32.944 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 23:18:33.180 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-18 23:36:32.874 [info] Logged in as r-rabbani11
+2025-05-18 23:36:33.923 [info] Got Copilot token for r-rabbani11
+2025-05-18 23:48:32.871 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-18 23:48:33.060 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 00:06:32.838 [info] Logged in as r-rabbani11
+2025-05-19 00:06:33.905 [info] Got Copilot token for r-rabbani11
+2025-05-19 00:18:32.840 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-19 00:18:33.055 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 00:36:32.808 [info] Logged in as r-rabbani11
+2025-05-19 00:36:33.831 [info] Got Copilot token for r-rabbani11
+2025-05-19 00:48:32.835 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-19 00:48:33.004 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 01:06:32.775 [info] Logged in as r-rabbani11
+2025-05-19 01:06:33.841 [info] Got Copilot token for r-rabbani11
+2025-05-19 01:18:32.812 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-19 01:18:33.017 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 01:36:32.827 [info] Logged in as r-rabbani11
+2025-05-19 01:36:33.889 [info] Got Copilot token for r-rabbani11
+2025-05-19 01:40:26.069 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-19 01:40:26.290 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 02:06:32.728 [info] Logged in as r-rabbani11
+2025-05-19 02:06:33.992 [info] Got Copilot token for r-rabbani11
+2025-05-19 02:18:32.795 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-19 02:18:33.109 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 02:36:32.835 [info] Logged in as r-rabbani11
+2025-05-19 02:36:34.004 [info] Got Copilot token for r-rabbani11
+2025-05-19 02:48:32.791 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-19 02:48:33.021 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 03:00:57.148 [info] Logged in as r-rabbani11
+2025-05-19 03:00:58.479 [info] Got Copilot token for r-rabbani11
+2025-05-19 03:00:58.897 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-19 03:00:59.076 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 03:44:32.722 [info] Logged in as r-rabbani11
+2025-05-19 03:44:33.826 [info] Got Copilot token for r-rabbani11
+2025-05-19 03:56:32.824 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-19 03:56:32.992 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 04:23:32.821 [info] Logged in as r-rabbani11
+2025-05-19 04:23:34.101 [info] Got Copilot token for r-rabbani11
+2025-05-19 04:35:32.753 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-19 04:35:32.951 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 04:53:32.817 [info] Logged in as r-rabbani11
+2025-05-19 04:53:34.097 [info] Got Copilot token for r-rabbani11
+2025-05-19 05:05:32.756 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-19 05:05:32.942 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 05:33:32.776 [info] Logged in as r-rabbani11
+2025-05-19 05:33:33.986 [info] Got Copilot token for r-rabbani11
+2025-05-19 05:45:32.786 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-19 05:45:33.073 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 06:03:32.798 [info] Logged in as r-rabbani11
+2025-05-19 06:03:34.018 [info] Got Copilot token for r-rabbani11
+2025-05-19 06:15:32.789 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-19 06:15:32.972 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 06:33:32.848 [info] Logged in as r-rabbani11
+2025-05-19 06:33:34.100 [info] Got Copilot token for r-rabbani11
+2025-05-19 06:38:31.238 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-19 06:38:31.494 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 07:04:32.829 [info] Logged in as r-rabbani11
+2025-05-19 07:04:33.907 [info] Got Copilot token for r-rabbani11
+2025-05-19 07:16:32.730 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-19 07:16:33.031 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 07:34:32.706 [info] Logged in as r-rabbani11
+2025-05-19 07:34:33.916 [info] Got Copilot token for r-rabbani11
+2025-05-19 07:46:32.692 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-19 07:46:32.913 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 08:03:52.134 [info] Logged in as r-rabbani11
+2025-05-19 08:03:53.243 [info] Got Copilot token for r-rabbani11
+2025-05-19 08:03:53.577 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-19 08:03:53.887 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 08:37:48.089 [info] Logged in as r-rabbani11
+2025-05-19 08:37:49.157 [info] Got Copilot token for r-rabbani11
+2025-05-19 08:37:49.567 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-19 08:37:49.784 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-19 08:37:49.942 [info] Fetched model metadata in 777ms b090c255-e3b8-4c25-ad51-5af9bbd7ac3d
+2025-05-19 09:25:32.649 [info] Logged in as r-rabbani11
+2025-05-19 09:25:33.732 [info] Got Copilot token for r-rabbani11
+2025-05-19 09:35:55.741 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-05-19 09:35:56.043 [info] BYOK: Copilot Chat known models list fetched successfully.
